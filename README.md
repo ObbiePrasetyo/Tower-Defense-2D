@@ -1,5 +1,4 @@
 # Tower-Defense-2D
-Tugas Chapter 4 DILo Academy
 
 # Project features:
 1. Character Movement
